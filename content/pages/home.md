@@ -3,13 +3,14 @@ URL:
 save_as: index.html
 
 
-AlgoJamSession is a software package that allows you to create improvised music using only your body.
+_AlgoJamSession_ is an interactive digital art installation that explores the concept of traditional Jam Sessions held in New York city from the 30s on, from a futuristic perspective.
 
-![algojamsession](/images/algojamsession.png)
+![algojamsession](/images/algojamsession.gif)
 
-This _improvised_ music is generated algoritmically, depending on the position of the _musicians_ in front of a camera.
+The core of the installation is a large screen showing the tune harmony, beside the image of two augmented reality video cameras.
 
+The song is an original piece synthesized in real-time, containing an algorithm that generates melodies from the motion detection cameras.
 
-It started as a technological-artistic project for creating an interactive installation based on augmented reality, where kids and adults alike could have some fun while experimenting with sound.
+The same way musicians improvise over Jazz standards, visitors can improvise over rhythm and harmony using only their body.
 
-The core of this project is the excellent live coding music synth [Sonic Pi](https://github.com/samaaron/sonic-pi). Please see [MUSIC-GENERATION section](https://github.com/victormartingarcia/algojamsession/blob/master/docs/MUSIC-GENERATION.md) to learn more about the internals of AlgoJamSession.
+The installation contains a set of moving lights, LEDs and smoke machines orchestrated by the song algorithm, allowing to create a truly immersive environment.
